@@ -6,7 +6,7 @@ define('DB_NAME', 'mi_primera_web');
 define('DB_USER', 'root');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 'sa');
+define('DB_PASSWORD', 'mnb47');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', 'localhost');
